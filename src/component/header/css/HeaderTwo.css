@@ -1,0 +1,42 @@
+/* Definir variables globales usando ::root */
+:root {
+    --navbar-bg-color: rgba(19, 19, 19, 0.8); /* Fondo gris oscuro con opacidad del 30% */
+    --navbar-box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); /* Sombra más pronunciada */
+    --navbar-transition-duration: 0.6s; /* Duración de la transición */
+    --logo-height: 50px; /* Altura del logo al hacer scroll */
+}
+
+/* Estilo inicial del navbar */
+.header-style-two.header--sticky {
+    position: fixed; /* Fija el navbar en la parte superior */
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000; /* Asegura que esté por encima de otros elementos */
+    transition: background  var(--navbar-transition-duration) ease, 
+                box-shadow var(--navbar-transition-duration) ease, 
+                backdrop-filter var(--navbar-transition-duration) ease, 
+                opacity var(--navbar-transition-duration) ease; /* Suaviza las transiciones */
+    background: transparent; /* Fondo transparente inicialmente */
+    opacity: 1; /* Mantiene la visibilidad completa inicialmente */
+}
+
+/* Estilo del navbar al hacer scroll */
+.header-style-two.header--sticky.sticky {
+    background: var(--navbar-bg-color); /* Usar la variable de fondo */
+    backdrop-filter: blur(10px); /* Aplica desenfoque detrás */
+    box-shadow: var(--navbar-box-shadow); /* Usar la variable de sombra */
+    opacity: 1; /* Fondo visible */
+}
+
+
+/* Ajuste de elementos dentro del navbar */
+.header-style-two .logo img {
+    height: auto; /* Mantiene el tamaño dinámico del logo */
+    transition: height var(--navbar-transition-duration) ease; /* Suaviza cambios de tamaño */
+}
+
+/* Cambia el tamaño del logo al hacer scroll */
+.header-style-two.sticky .logo img {
+    height: var(--logo-height); /* Usa la variable para el tamaño del logo */
+}
