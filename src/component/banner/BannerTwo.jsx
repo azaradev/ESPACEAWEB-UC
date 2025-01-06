@@ -28,13 +28,13 @@ function BannerTwo() {
                                         <div className="col-lg-12">
                                             {/* banner content two inner area start */}
                                             <div className="banner-inner-content-wrapper">
-                                                <span className="pre-title">Facultad de Arquitectura</span>
+                                                <span className="pre-title">Innovación arquitectónica</span>
                                                 <h1 className="title">
-                                                    Espacio <span>Arquitectónico</span> <br />
+                                                    Explora <span>ESPACEA</span> <br />
                                                     UC
                                                 </h1>
                                                 <p className="disc">
-                                                    Diseñamos espacios arquitectónicos que combinen funcionalidad, estática y sostenibilidad, creando ambientes que impactan y enriquecen la vida.
+                                                Conoce nuestras carreras y sé parte de una comunidad que transforma espacios y crea soluciones sostenibles para las ciudades del mañana.
                                                 </p>
                                                 <a
                                                     href="/portfolio-grid-1"
@@ -58,19 +58,19 @@ function BannerTwo() {
                                         <div className="col-lg-12">
                                             {/* banner content two inner area start */}
                                             <div className="banner-inner-content-wrapper">
-                                                <span className="pre-title">Facultad de Diseño </span>
+                                                <span className="pre-title">Proyectos destacados</span>
                                                 <h1 className="title">
-                                                    Diseño <span>Arquitectónico</span> <br />
-                                                    UC
+                                                    Portafolios y <span>Proyectos</span> <br />
+                                                    Destacados
                                                 </h1>
                                                 <p className="disc">
-                                                    Nuestra Facultad de Diseño de Interiores responde a las necesidades del presente, anticipándose al futuro y ofreciendo soluciones creativas y sostenibles.
+                                                Descubre los proyectos más innovadores de nuestros estudiantes, egresados y docentes. Innovación, creatividad y excelencia en cada diseño.
                                                 </p>
                                                 <a
                                                     href="/portfolio-grid-1"
                                                     className="rts-btn btn-border"
                                                 >
-                                                    Conoce más <i className="fa-regular fa-arrow-right" />
+                                                    Ver portafolios <i className="fa-regular fa-arrow-right" />
                                                 </a>
                                             </div>
                                             {/* banner content two inner area end */}
@@ -88,19 +88,19 @@ function BannerTwo() {
                                         <div className="col-lg-12">
                                             {/* banner content two inner area start */}
                                             <div className="banner-inner-content-wrapper">
-                                                <span className="pre-title">Comunidad </span>
+                                                <span className="pre-title">Experiencia Arquitectónica</span>
                                                 <h1 className="title">
-                                                    Comunidad <span>Integrada</span> <br />
-                                                    UC
+                                                    Comunidad y <span>Eventos</span> <br />
+                                                    2025
                                                 </h1>
                                                 <p className="disc">
-                                                    Fomentamos la colaboración entre estudiantes, docentes y profesionales, creando una comunidad que impulsa la innovación y el intercambio de ideas.
+                                                Participa en el evento que reúne a expertos, estudiantes y profesionales para reflexionar sobre el impacto de la arquitectura en nuestras ciudades.
                                                 </p>
                                                 <a
                                                     href="/portfolio-grid-1"
                                                     className="rts-btn btn-border"
                                                 >
-                                                    Conoce más <i className="fa-regular fa-arrow-right" />
+                                                    Nuestros eventos <i className="fa-regular fa-arrow-right" />
                                                 </a>
                                             </div>
                                             {/* banner content two inner area end */}
@@ -125,8 +125,8 @@ function BannerTwo() {
                                     <div className="single-item">
                                         <span className="number">01</span>
                                         <div className="inner">
-                                            <span className="pre">Arquitectura</span>
-                                            <h6 className="title">Esp. Arquitectónico</h6>
+                                            <span className="pre">Espacea UC</span>
+                                            <h6 className="title">Experiencia arquitectónica</h6>
                                         </div>
                                     </div>
                                     {/* single item end */}
@@ -136,8 +136,8 @@ function BannerTwo() {
                                     <div className="single-item">
                                         <span className="number">02</span>
                                         <div className="inner">
-                                            <span className="pre">Diseño</span>
-                                            <h6 className="title">Diseño <br/>de Interiores</h6>
+                                            <span className="pre">Portafolios</span>
+                                            <h6 className="title">Nuestros <br/>Proyectos</h6>
                                         </div>
                                     </div>
                                     {/* single item end */}
@@ -147,8 +147,8 @@ function BannerTwo() {
                                     <div className="single-item">
                                         <span className="number">03</span>
                                         <div className="inner">
-                                            <span className="pre">Comunidad</span>
-                                            <h6 className="title">Comunidad Integrada</h6>
+                                            <span className="pre">Eventos</span>
+                                            <h6 className="title">Actividades Importantes</h6>
                                         </div>
                                     </div>
                                     {/* single item end */}

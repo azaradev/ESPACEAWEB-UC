@@ -8,7 +8,7 @@ function Nav() {
                     <ul className="parent-ul">
                         <li className="has-dropdown with-megamenu">
                             <Link className="nav-link" href="#" prefetch>
-                                Conócenos
+                                Escuelas
                             </Link>
                             <ul className="submenu">
                                 <li className="mega-menu-item">
@@ -162,7 +162,7 @@ function Nav() {
                         </li>
                         <li className="has-dropdown">
                             <Link className="nav-link" href="#">
-                                Proyectos
+                                Portafolios
                             </Link>
                             <ul className="submenu">
                                 <li className="lim">
@@ -234,7 +234,7 @@ function Nav() {
                         </li>
                         <li className="has-dropdown">
                             <Link className="nav-link" href="#">
-                                Académico
+                                Eventos
                             </Link>
                             <ul className="submenu">
                                 <li className="lim">
@@ -271,7 +271,7 @@ function Nav() {
                         </li>
                         <li className="has-dropdown">
                             <Link className="nav-link" href="#">
-                                Eventos
+                                Blog
                             </Link>
                             <ul className="submenu">
                                 <li className="lim">
@@ -337,7 +337,7 @@ function Nav() {
                         </li>
                         <li className="has-dropdown">
                             <Link className="nav-link" href="#">
-                                Blog
+                                Tienda
                             </Link>
                             <ul className="submenu">
                                 <li className="lim">
@@ -373,7 +373,7 @@ function Nav() {
                             </ul>
                         </li>
                         <li>
-                            <Link href="/contact">Galería</Link>
+                            <Link href="/contact">Contacto</Link>
                         </li>
                     </ul>
                 </nav>

@@ -31,9 +31,9 @@ export default function RootLayout({ children }) {
       </Head>
       <body className='index-one'>
 
+        <div class="cursor-dot" data-cursor-dot></div>
+        <div class="cursor-outline" data-cursor-outline></div>
         {children}
-
-
 
         <Script
           src="/assets/js/plugins/smoothscroll.js"

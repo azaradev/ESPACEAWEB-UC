@@ -48,7 +48,7 @@ function HeaderTwo() {
             <header className={`header-style-two header--sticky  ${isSticky ? 'sticky' : ''}`}>
                 <div className="header-wrapper-main">
                     <Link href="/" className="logo" prefetch>
-                        <Image width={250} height={250} style={{ width: 'max-content', height: 'auto' }} src="assets/images/logo/logo-uc.svg" alt="logo" />
+                        <Image width={250} height={250} style={{ width: 'max-content', height: 'auto' }} src="assets/images/logo/logoucesp.svg" alt="logo" />
                     </Link>
                     <div className="header-right">
                         <Nav />
