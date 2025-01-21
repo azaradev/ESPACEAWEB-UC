@@ -37,7 +37,7 @@ function BannerTwo() {
                                                 Conoce nuestras carreras y sé parte de una comunidad que transforma espacios y crea soluciones sostenibles para las ciudades del mañana.
                                                 </p>
                                                 <a
-                                                    href="/portfolio-grid-1"
+                                                    href="/#"
                                                     className="rts-btn btn-border"
                                                 >
                                                     Conoce más <i className="fa-regular fa-arrow-right" />
@@ -67,7 +67,7 @@ function BannerTwo() {
                                                 Descubre los proyectos más innovadores de nuestros estudiantes, egresados y docentes. Innovación, creatividad y excelencia en cada diseño.
                                                 </p>
                                                 <a
-                                                    href="/portfolio-grid-1"
+                                                    href="/#"
                                                     className="rts-btn btn-border"
                                                 >
                                                     Ver portafolios <i className="fa-regular fa-arrow-right" />
@@ -97,7 +97,7 @@ function BannerTwo() {
                                                 Participa en el evento que reúne a expertos, estudiantes y profesionales para reflexionar sobre el impacto de la arquitectura en nuestras ciudades.
                                                 </p>
                                                 <a
-                                                    href="/portfolio-grid-1"
+                                                    href="/#"
                                                     className="rts-btn btn-border"
                                                 >
                                                     Nuestros eventos <i className="fa-regular fa-arrow-right" />

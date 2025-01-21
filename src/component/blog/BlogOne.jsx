@@ -35,17 +35,17 @@ function BlogOne() {
                         <div className="col-lg-4 col-md-6 col-sm-12 col-12" data-aos="fade-up" data-aos-delay="100">
                             {/* single blog area start */}
                             <div className="signle-blog-style-one">
-                                <Link href="/blog/1" className="thumbnail">
+                                <Link href="/#" className="thumbnail">
                                     <img src="/assets/images/blog/01.jpg" alt="blog" />
                                     <span className="tag">Arquitectura</span>
                                 </Link>
                                 <div className="inner-content">
-                                    <Link href="/blog/1">
+                                    <Link href="/#">
                                         <h5 className="title">
                                         La arquitectura sostenible del futuro
                                         </h5>
                                     </Link>
-                                    <Link className="btn-blog-readmore" href="/blog/2">
+                                    <Link className="btn-blog-readmore" href="/#">
                                         {" "}
                                         Leer más +
                                     </Link>
@@ -56,17 +56,17 @@ function BlogOne() {
                         <div className="col-lg-4 col-md-6 col-sm-12 col-12" data-aos="fade-up" data-aos-delay="300">
                             {/* single blog area start */}
                             <div className="signle-blog-style-one">
-                                <Link href="/blog/2" className="thumbnail">
+                                <Link href="/#" className="thumbnail">
                                     <img src="/assets/images/blog/02.jpg" alt="blog" />
                                     <span className="tag">Innovación</span>
                                 </Link>
                                 <div className="inner-content">
-                                    <Link href="/blog/2">
+                                    <Link href="/#">
                                         <h5 className="title">
                                         The Art of Mindful Parenting: Finding Balance and Joy
                                         </h5>
                                     </Link>
-                                    <Link className="btn-blog-readmore" href="/blog/2">
+                                    <Link className="btn-blog-readmore" href="/#">
                                         {" "}
                                         Leer más +
                                     </Link>
@@ -77,17 +77,17 @@ function BlogOne() {
                         <div className="col-lg-4 col-md-6 col-sm-12 col-12" data-aos="fade-up" data-aos-delay="500">
                             {/* single blog area start */}
                             <div className="signle-blog-style-one">
-                                <Link href="/blog/3" className="thumbnail">
+                                <Link href="/#" className="thumbnail">
                                     <img src="/assets/images/blog/03.jpg" alt="blog" />
                                     <span className="tag">Diseño</span>
                                 </Link>
                                 <div className="inner-content">
-                                    <Link href="/blog/3">
+                                    <Link href="/#">
                                         <h5 className="title">
                                         Unlocking Creativity: 10 Exercises to Inspire Your Imagination
                                         </h5>
                                     </Link>
-                                    <Link className="btn-blog-readmore" href="/blog/3">
+                                    <Link className="btn-blog-readmore" href="/#">
                                         {" "}
                                         Leer más +
                                     </Link>

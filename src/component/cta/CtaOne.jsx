@@ -18,7 +18,7 @@ function CtaOne() {
                                         <span>Estamos</span> ansiosos de aprender<br />
                                         más sobre <span>tus proyectos</span>
                                     </h2>
-                                    <Link href="/contact" className="rts-btn btn-border">
+                                    <Link href="/#" className="rts-btn btn-border">
                                         Conocer más <i className="fa-regular fa-arrow-right" />
                                     </Link>
                                 </div>

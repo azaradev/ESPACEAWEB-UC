@@ -45,7 +45,7 @@ function ServiceTwo() {
                         <div className="col-lg-4 col-md-6 col-sm-12" data-aos="fade-up" data-aos-delay="100">
                             {/* ingle srevice area start */}
                             <div className="singe-serice-style-two">
-                                <Link href="/service-details" className="thumbnail">
+                                <Link href="/#" className="thumbnail">
                                     <img src="/assets/images/service/03.jpg" alt="service" />
                                 </Link>
                                 <div className="body">
@@ -108,14 +108,14 @@ function ServiceTwo() {
                                             <span>01</span>
                                         </div>
                                         <div className="inner">
-                                            <Link href="/service-details">
+                                            <Link href="/#">
                                                 <h6 className="title">Relevante 1</h6>
                                             </Link>
                                             <p className="disc">
                                             Descripción de la opción jerarquica de primer nivel a promocionar.
                                             </p>
                                             <Link
-                                                href="/service-details"
+                                                href="/#"
                                                 className="arrow-btn-read-more"
                                             >
                                                 Ver más <i className="fa-thin fa-chevron-right" />
@@ -129,7 +129,7 @@ function ServiceTwo() {
                         <div className="col-lg-4 col-md-6 col-sm-12" data-aos="fade-up" data-aos-delay="300">
                             {/* ingle srevice area start */}
                             <div className="singe-serice-style-two">
-                                <Link href="/service-details" className="thumbnail">
+                                <Link href="/#" className="thumbnail">
                                     <img src="/assets/images/service/04.jpg" alt="service" />
                                 </Link>
                                 <div className="body">
@@ -272,14 +272,14 @@ function ServiceTwo() {
                                             <span>02</span>
                                         </div>
                                         <div className="inner">
-                                            <Link href="/service-details">
+                                            <Link href="/#">
                                                 <h6 className="title">Relevante 2</h6>
                                             </Link>
                                             <p className="disc">
                                             Descripción de la opción jerarquica de primer nivel a promocionar.
                                             </p>
                                             <Link
-                                                href="/service-details"
+                                                href="/#"
                                                 className="arrow-btn-read-more"
                                             >
                                                 Ver más <i className="fa-thin fa-chevron-right" />
@@ -293,7 +293,7 @@ function ServiceTwo() {
                         <div className="col-lg-4 col-md-6 col-sm-12" data-aos="fade-up" data-aos-delay="500">
                             {/* ingle srevice area start */}
                             <div className="singe-serice-style-two">
-                                <Link href="/service-details" className="thumbnail">
+                                <Link href="/#" className="thumbnail">
                                     <img src="/assets/images/service/05.jpg" alt="service" />
                                 </Link>
                                 <div className="body">
@@ -324,14 +324,14 @@ function ServiceTwo() {
                                             <span>03</span>
                                         </div>
                                         <div className="inner">
-                                            <Link href="/service-details">
+                                            <Link href="/#">
                                                 <h6 className="title">Relevante 3</h6>
                                             </Link>
                                             <p className="disc">
                                             Descripción de la opción jerarquica de primer nivel a promocionar.
                                             </p>
                                             <Link
-                                                href="/service-details"
+                                                href="/#"
                                                 className="arrow-btn-read-more"
                                             >
                                                 Ver más <i className="fa-thin fa-chevron-right" />

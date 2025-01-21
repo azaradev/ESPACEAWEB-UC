@@ -67,7 +67,7 @@ const PortfolioSlider = () => {
                             >
                                 <SwiperSlide>
                                     <div className="single-product-wrapper-two">
-                                        <a href="/product-details-1" className="thumbnail">
+                                        <a href="/#" className="thumbnail">
                                             <img
                                                 src="/assets/images/product/05.jpg"
                                                 alt="product"
@@ -77,7 +77,7 @@ const PortfolioSlider = () => {
                                 </SwiperSlide>
                                 <SwiperSlide>
                                     <div className="single-product-wrapper-two">
-                                        <a href="/product-details-1" className="thumbnail">
+                                        <a href="/#" className="thumbnail">
                                             <img
                                                 src="/assets/images/product/15.jpg"
                                                 alt="product"
@@ -87,7 +87,7 @@ const PortfolioSlider = () => {
                                 </SwiperSlide>
                                 <SwiperSlide>
                                     <div className="single-product-wrapper-two">
-                                        <a href="/product-details-1" className="thumbnail">
+                                        <a href="/#" className="thumbnail">
                                             <img
                                                 src="/assets/images/product/16.jpg"
                                                 alt="product"
@@ -111,7 +111,7 @@ const PortfolioSlider = () => {
                                 >
                                     <SwiperSlide>
                                         <div className="outer-product-text">
-                                            <a href="/product-details-1">
+                                            <a href="/#">
                                                 <h2 className="title-change-one">
                                                     Expo <span>Ciudad</span>
                                                 </h2>
@@ -120,7 +120,7 @@ const PortfolioSlider = () => {
                                     </SwiperSlide>
                                     <SwiperSlide>
                                         <div className="outer-product-text">
-                                            <a href="/product-details-1">
+                                            <a href="/#">
                                                 <h2 className="title-change-one">
                                                     Arqui <span>Fest</span>
                                                 </h2>
@@ -129,7 +129,7 @@ const PortfolioSlider = () => {
                                     </SwiperSlide>
                                     <SwiperSlide>
                                         <div className="outer-product-text">
-                                            <a href="/product-details-1">
+                                            <a href="/#">
                                                 <h2 className="title-change-one">
                                                     Arqui <span>Podcast</span>
                                                 </h2>

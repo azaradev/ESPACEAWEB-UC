@@ -43,14 +43,14 @@ function AboutTwo() {
                                 </div>
                                 {/* about short contact area start */}
                                 <div className="about-short-contact-area mt--50">
-                                    <Link href="/about" className="rts-btn btn-border">
+                                    <Link href="/#" className="rts-btn btn-border">
                                         Conoce más <i className="fa-regular fa-arrow-right" />
                                     </Link>
                                     <div className="contact-information">
                                         <i className="fa-solid fa-swatchbook" />
                                         <div className="information">
                                             <span>Línea de Investigación</span>
-                                            <Link href="-">Título</Link>
+                                            <Link href="/#">Título</Link>
                                         </div>
                                     </div>
                                 </div>

@@ -59,6 +59,11 @@ function HeaderTwo() {
                             <div id="search" className="search" onClick={handleSearchClick}>
                                 <i className="fa-light fa-magnifying-glass" />
                             </div>
+                        </div>
+                        {/* <div className="action-area">
+                            <div id="search" className="search" onClick={handleSearchClick}>
+                                <i className="fa-light fa-magnifying-glass" />
+                            </div>
                             <div className="menu-icon" id="menu-btn" onClick={toggleSidebar}>
                                 <svg
                                     width={16}
@@ -73,7 +78,8 @@ function HeaderTwo() {
                                     />
                                 </svg>
                             </div>
-                        </div>
+                        </div> */}
+                        
                     </div>
                 </div>
             </header>
@@ -85,7 +91,7 @@ function HeaderTwo() {
                                 id="searchInput1"
                                 className="search-input"
                                 type="text"
-                                placeholder="Search by keyword or #"
+                                placeholder="Ingresa un proyecto, evento o detalle"
                             />
                             <button>
                                 <i className="far fa-search" />

@@ -15,47 +15,17 @@ function Nav() {
                                     <ul className="pages">
                                         <li>
                                             <Link className="sdm-main title-top" href="#" prefetch>
-                                                Home Pages
+                                                Nuestras Escuelas
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link className="sdm-main" href="/" prefetch>
-                                                Home One
+                                            <Link className="sdm-main" href="/#" prefetch>
+                                                Arquitectura
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link className="sdm-main" href="/index-two" prefetch>
-                                                Home Two
-                                            </Link>
-                                        </li>
-                                        <li>
-                                            <Link className="sdm-main" href="/index-three" prefetch>
-                                                Home Three
-                                            </Link>
-                                        </li>
-                                        <li>
-                                            <Link className="sdm-main" href="/index-four" prefetch>
-                                                Home Four
-                                            </Link>
-                                        </li>
-                                        <li>
-                                            <Link className="sdm-main" href="/index-five">
-                                                Home Five
-                                            </Link>
-                                        </li>
-                                        <li>
-                                            <Link className="sdm-main" href="/index-six">
-                                                Home Six
-                                            </Link>
-                                        </li>
-                                        <li>
-                                            <Link className="sdm-main" href="/index-seven">
-                                                Home Seven
-                                            </Link>
-                                        </li>
-                                        <li className="last-left">
-                                            <Link className="last sdm-main" href="/index-eight">
-                                                Home Eight
+                                            <Link className="sdm-main" href="/#" prefetch>
+                                                Arquitectura y Diseño de Interiores
                                             </Link>
                                         </li>
                                     </ul>
@@ -64,96 +34,27 @@ function Nav() {
                                     <ul className="pages">
                                         <li>
                                             <Link className="sdm-main title-top" href="#">
-                                                One Pages
+                                                Nuestros Programas
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link className="sdm-main" href="/onepage-one">
-                                                One Page One
+                                            <Link className="sdm-main" href="/#">
+                                                Pregrado
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link className="sdm-main" href="/onepage-two">
-                                                One Page Two
+                                            <Link className="sdm-main" href="/#">
+                                                Posgrado
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link className="sdm-main" href="/onepage-three">
-                                                One Page Three
+                                            <Link className="sdm-main" href="/#">
+                                                Especializaciones
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link className="sdm-main" href="/onepage-four">
-                                                One Page Four
-                                            </Link>
-                                        </li>
-                                        <li>
-                                            <Link className="sdm-main" href="/onepage-five">
-                                                One Page Five
-                                            </Link>
-                                        </li>
-                                        <li>
-                                            <Link className="sdm-main" href="/onepage-six">
-                                                One Page Six
-                                            </Link>
-                                        </li>
-                                        <li>
-                                            <Link className="sdm-main" href="/onepage-seven">
-                                                One Page Seven
-                                            </Link>
-                                        </li>
-                                        <li>
-                                            <Link className="sdm-main last" href="/onepage-eight">
-                                                One Page Eight
-                                            </Link>
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li className="mega-menu-item">
-                                    <ul className="pages">
-                                        <li>
-                                            <Link className="sdm-main title-top" href="#">
-                                                Showcase Pages
-                                            </Link>
-                                        </li>
-                                        <li>
-                                            <Link className="sdm-main" href="/portfolio-boxes">
-                                                Carousel Slider
-                                            </Link>
-                                        </li>
-                                        <li>
-                                            <Link className="sdm-main" href="/varticle-portfolio">
-                                                Varticle Portfolio
-                                            </Link>
-                                        </li>
-                                        <li>
-                                            <Link className="sdm-main" href="/varticle-slider">
-                                                Varticle Slider
-                                            </Link>
-                                        </li>
-                                        <li>
-                                            <Link className="sdm-main" href="/varticle-slider-tab">
-                                                Varticle Tab Slider
-                                            </Link>
-                                        </li>
-                                        <li>
-                                            <Link className="sdm-main" href="/showcase-fade">
-                                                Showcase Fade
-                                            </Link>
-                                        </li>
-                                        <li>
-                                            <Link className="sdm-main" href="/modern-slider">
-                                                Modern slider
-                                            </Link>
-                                        </li>
-                                        <li className="last-right">
-                                            <Link className="sdm-main last" href="#">
-                                                Coming Soon
-                                            </Link>
-                                        </li>
-                                        <li className="last-right">
-                                            <Link className="sdm-main last" href="#">
-                                                Coming Soon
+                                            <Link className="sdm-main" href="/#">
+                                                Talleres
                                             </Link>
                                         </li>
                                     </ul>
@@ -166,169 +67,131 @@ function Nav() {
                             </Link>
                             <ul className="submenu">
                                 <li className="lim">
-                                    <Link className="sdm-main" href="about">
-                                        About Us
+                                    <Link className="sdm-main" href="/#">
+                                        Todoso los Proyectos
                                     </Link>
                                 </li>
                                 <li className="sub-dropdown lim">
                                     <Link className="sdm-main" href="#">
-                                        Team
+                                        Línea de Investigación
                                     </Link>
                                     <ul className="submenu third-lvl base">
                                         <li className="lim">
-                                            <Link className="mobile-menu-link" href="/team-1">
-                                                Team One
+                                            <Link className="mobile-menu-link" href="/#">
+                                                Línea 1
                                             </Link>
                                         </li>
                                         <li className="lim">
-                                            <Link className="mobile-menu-link" href="/team-2">
-                                                Team Two
+                                            <Link className="mobile-menu-link" href="/#">
+                                                Línea 2
                                             </Link>
                                         </li>
                                         <li className="lim">
                                             <Link
                                                 className="mobile-menu-link last"
-                                                href="team-single"
+                                                href="/#"
                                             >
-                                                Team Details
+                                                Línea 3
                                             </Link>
                                         </li>
                                     </ul>
                                 </li>
                                 <li className="lim">
-                                    <Link className="sdm-main" href="/before-after">
-                                        Before After
+                                    <Link className="sdm-main" href="/#">
+                                        Premiaciones
                                     </Link>
                                 </li>
                                 <li className="lim">
-                                    <Link className="sdm-main" href="/pricing-plane">
-                                        Pricing Plan
-                                    </Link>
-                                </li>
-                                <li className="lim">
-                                    <Link className="sdm-main" href="/faq">
-                                        Faq's
-                                    </Link>
-                                </li>
-                                <li className="lim">
-                                    <Link className="sdm-main" href="/contact">
-                                        Contact Us
-                                    </Link>
-                                </li>
-                                <li className="lim">
-                                    <Link className="sdm-main" href="/terms-and-condition">
-                                        Terms &amp; Condition
-                                    </Link>
-                                </li>
-                                <li className="lim">
-                                    <Link className="sdm-main" href="/privacy-policy">
-                                        Privacy Policy
-                                    </Link>
-                                </li>
-                                <li className="lim">
-                                    <Link className="last sdm-main" href="/error-404">
-                                        404 Page
+                                    <Link className="sdm-main" href="/#">
+                                        Sustentaciones
                                     </Link>
                                 </li>
                             </ul>
                         </li>
                         <li className="has-dropdown">
-                            <Link className="nav-link" href="#">
+                            <Link className="nav-link" href="/#">
                                 Eventos
                             </Link>
                             <ul className="submenu">
                                 <li className="lim">
-                                    <Link className="sdm-main" href="/service-1">
-                                        Service One
+                                    <Link className="sdm-main" href="/#">
+                                        Expo Ciudad
                                     </Link>
                                 </li>
                                 <li className="lim">
-                                    <Link className="sdm-main" href="/service-2">
-                                        Service Two
+                                    <Link className="sdm-main" href="/#">
+                                        Feria de Diseño
                                     </Link>
                                 </li>
                                 <li className="lim">
-                                    <Link className="sdm-main" href="/service-3">
-                                        Service Three
+                                    <Link className="sdm-main" href="/#">
+                                        Foro Urbano
                                     </Link>
                                 </li>
                                 <li className="lim">
-                                    <Link className="sdm-main" href="/service-4">
-                                        Service Four
+                                    <Link className="sdm-main" href="/#">
+                                        Seminario de Arquitectura
                                     </Link>
                                 </li>
                                 <li className="lim">
-                                    <Link className="sdm-main" href="/service-5">
-                                        Service Five
-                                    </Link>
-                                </li>
-                                <li className="lim">
-                                    <Link className="last sdm-main" href="/service-details">
-                                        Service Details
+                                    <Link className="sdm-main" href="/#">
+                                        ArquiTech
                                     </Link>
                                 </li>
                             </ul>
                         </li>
                         <li className="has-dropdown">
-                            <Link className="nav-link" href="#">
+                            <Link className="nav-link" href="/#">
                                 Blog
                             </Link>
                             <ul className="submenu">
                                 <li className="lim">
-                                    <Link className="sdm-main" href="/portfolio-grid-1">
-                                        Portfolio Grid
+                                    <Link className="sdm-main" href="/#">
+                                        Revista Arquitectónica
                                     </Link>
                                 </li>
                                 <li className="lim">
-                                    <Link className="sdm-main" href="/portfolio-grid-col-3">
-                                        Portfolio Col-3
+                                    <Link className="sdm-main" href="/#">
+                                        Tendencias de Diseño
                                     </Link>
                                 </li>
                                 <li className="lim">
-                                    <Link className="sdm-main" href="/portfolio-grid-col-4">
-                                        Portfolio Col-4
+                                    <Link className="sdm-main" href="/#">
+                                        Tendencias de Arquitectura
                                     </Link>
                                 </li>
                                 <li className="lim">
-                                    <Link className="sdm-main" href="/portfolio-varticle-grid">
-                                        Portfolio Mesonary
+                                    <Link className="sdm-main" href="/#">
+                                        El Arqui Cuenta
                                     </Link>
                                 </li>
                                 <li className="sub-dropdown last lim">
-                                    <Link className="sdm-main last" href="#">
-                                        Project Details
+                                    <Link className="sdm-main last" href="/#">
+                                        Foro Arquitectónico
                                     </Link>
                                     <ul className="submenu third-lvl base">
                                         <li className="lim">
                                             <Link
                                                 className="mobile-menu-link"
-                                                href="/product-details-1"
+                                                href="/#"
                                             >
-                                                Project Details v.1
+                                                ArquiForo
                                             </Link>
                                         </li>
                                         <li className="lim">
                                             <Link
                                                 className="mobile-menu-link"
-                                                href="/product-details-2"
+                                                href="/#"
                                             >
-                                                Project Details v.2
+                                                ForoDiseña
                                             </Link>
                                         </li>
                                         <li className="lim">
                                             <Link
                                                 className="mobile-menu-link"
-                                                href="/product-details-3"
+                                                href="/#"
                                             >
-                                                Project Details v.3
-                                            </Link>
-                                        </li>
-                                        <li className="lim">
-                                            <Link
-                                                className="mobile-menu-link last"
-                                                href="/product-details-4"
-                                            >
-                                                Project Details v.4
+                                                Comunidad UC
                                             </Link>
                                         </li>
                                     </ul>
@@ -336,44 +199,34 @@ function Nav() {
                             </ul>
                         </li>
                         <li className="has-dropdown">
-                            <Link className="nav-link" href="#">
+                            <Link className="nav-link" href="/#">
                                 Tienda
                             </Link>
                             <ul className="submenu">
                                 <li className="lim">
-                                    <Link className="sdm-main" href="/blog">
-                                        Blog
+                                    <Link className="sdm-main" href="/#">
+                                        Nuestra Merch
                                     </Link>
                                 </li>
                                 <li className="lim">
-                                    <Link className="sdm-main" href="/blog-list">
-                                        Blog List
+                                    <Link className="sdm-main" href="/#">
+                                        Maquetería
                                     </Link>
                                 </li>
                                 <li className="lim">
-                                    <Link className="sdm-main" href="/blog-2">
-                                        Blog v.2
+                                    <Link className="sdm-main" href="/#">
+                                        Seguridad y Protección
                                     </Link>
                                 </li>
                                 <li className="lim">
-                                    <Link className="sdm-main" href="/blog-3">
-                                        Blog v.3
-                                    </Link>
-                                </li>
-                                <li className="lim">
-                                    <Link className="sdm-main" href="/blog-4">
-                                        Blog v.4
-                                    </Link>
-                                </li>
-                                <li className="lim">
-                                    <Link className="sdm-main last" href="/blog/7">
-                                        Blog Details
+                                    <Link className="sdm-main" href="/#">
+                                        Alquiler de Equipos
                                     </Link>
                                 </li>
                             </ul>
                         </li>
                         <li>
-                            <Link href="/contact">Contacto</Link>
+                            <Link href="/#">Contacto</Link>
                         </li>
                     </ul>
                 </nav>

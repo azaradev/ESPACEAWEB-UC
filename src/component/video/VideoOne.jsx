@@ -4,7 +4,7 @@ import Link from 'next/link';
 import ModalVideo from 'react-modal-video';
 function VideoOne() {
     const [isOpen, setIsOpen] = useState(false);
-    const videoLink = 'https://www.youtube.com/watch?v=tVbtTL_sJHI'; // Define the video link here
+    const videoLink = 'https://www.youtube.com/watch?v=EWQmDL8C0NU&ab_channel=UniversidadContinental'; 
     const [videoId, setVideoId] = useState(null);
     useEffect(() => {
         // Extract the video ID from the video link
