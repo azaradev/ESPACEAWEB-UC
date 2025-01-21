@@ -50,17 +50,18 @@ function FooterTwo() {
                                         <div className="location-information">
                                             <div className="location">
                                                 <p>
-                                                    1058 Helton Ave, Stky <br />
-                                                    Berlin, Germany
+                                                    Escuela de Arquitectura <br />
+                                                    <strong>Universidad Continental</strong><br />
+                                                    Huancayo, Perú.
                                                 </p>
                                             </div>
                                             <div className="contact-call">
-                                                <Link href="#">+23 5825-32535</Link>
-                                                <span>Call us for support</span>
+                                                <Link href="#">+51 987 654 321</Link>
+                                                <span>Para más información</span>
                                             </div>
                                             <div className="contact-call">
-                                                <Link href="#">inno@gmail.com</Link>
-                                                <span>Email us for query</span>
+                                                <Link href="#">arquitectura@continental.edu.pe</Link>
+                                                <span>Correo para consultas</span>
                                             </div>
                                         </div>
                                     </div>
@@ -69,23 +70,23 @@ function FooterTwo() {
                                     <div className="single-footer-wized">
                                         <div className="location-information">
                                             <div className="location">
-                                                <h6 className="title">Useful Links</h6>
+                                                <h6 className="title">Enlaces relevantes</h6>
                                             </div>
                                             <ul>
                                                 <li>
-                                                    <Link href="#">Why Choose</Link>
+                                                    <Link href="#">Elígenos</Link>
                                                 </li>
                                                 <li>
-                                                    <Link href="#">Read Blog</Link>
+                                                    <Link href="#">Nuestro Blog</Link>
                                                 </li>
                                                 <li>
-                                                    <Link href="#">Work Process</Link>
+                                                    <Link href="#">Trabajos en proceso</Link>
                                                 </li>
                                                 <li>
                                                     <Link href="#">FAQ’s</Link>
                                                 </li>
                                                 <li>
-                                                    <Link href="#">Support</Link>
+                                                    <Link href="#">Soporte</Link>
                                                 </li>
                                             </ul>
                                         </div>
@@ -95,14 +96,14 @@ function FooterTwo() {
                                     <div className="single-footer-wized">
                                         <div className="location-information">
                                             <div className="location">
-                                                <h6 className="title">News Letter</h6>
+                                                <h6 className="title">Nuevas Noticias</h6>
                                                 <p className="disc-f">
-                                                    Subscribe to our newsletter &amp; get all the latest news.
+                                                Subscríbete a nuestra revista y recibe actualizaciones.
                                                 </p>
                                             </div>
                                             <form action="#">
                                                 <div className="input-email">
-                                                    <input type="text" placeholder="Enter your email address" />
+                                                    <input type="text" placeholder="Ingresa tu correo" />
                                                     <button>
                                                         <i className="fa-thin fa-arrow-right" />
                                                     </button>
@@ -120,14 +121,14 @@ function FooterTwo() {
                             <div className="row">
                                 <div className="col-lg-12">
                                     <div className="copy-right-area-inner-two">
-                                        <p className="disc">Copyright 2024. All Rights Reserved.</p>
+                                        <p className="disc">Copyright 2025. Todos los Derechos Reservados.</p>
                                         <div className="right">
                                             <ul>
                                                 <li>
-                                                    <Link href="#">Terms &amp; conditions</Link>
+                                                    <Link href="#">Términos &amp; Condiciones</Link>
                                                 </li>
                                                 <li>
-                                                    <Link href="#">Privacy policy</Link>
+                                                    <Link href="#">Políticas de Privacidad</Link>
                                                 </li>
                                             </ul>
                                         </div>
